@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservecrypt",
+        "uuid": 8610932,
+        "checksum": "al89n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
